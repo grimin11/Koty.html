@@ -1,0 +1,17 @@
+<header style="text-align: center;margin-left: 320px; margin-right: 300px; background-color: orange"><p style="text-align: center"><span style="front-size: medium; color: blue"><b>
+INFORMACJĘ O KOTACH
+</b></span></p></header>
+<nav style="width: 300px; float: left;background-color: aqua; overflow: hidden">
+<a href="https://fajnepodroze.pl/lew-ciekawostki-informacje-fakty/">informację o lwach</a>
+</nav>
+<article style="margin-left: 320px; margin-right: 300px; background-color: silver; color: black"> 
+koty są najpopularniejszymi zwierzętami domowymi na świecie. W domach jest ich około 500 milionów.
+<img src="https://cdn.pixabay.com/photo/2020/09/08/12/55/cat-5554559_960_720.jpg" alt="" width="300" height="200">
+Koty bez sierści są <b>ponoć</b> miłe w dotyku
+<img src="https://cdn.pixabay.com/photo/2019/02/04/10/59/cat-3974408_960_720.jpg" alt="" width="300" height="200">
+dachowce to domowe koty krótkowłose mieszanego pochodzenia(koci odpowiednik kundla)
+najdroższą rasą kota jest asher sprzedawany za ceny oscylujące pomiędzy 80 a 500 tysięcy złotych.
+
+</article>
+
+<footer style="text-align: center; clear: both">Zdjęcia pozyskane z serwisu internetowego: https://pixabay.com/pl/</footer>
